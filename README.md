@@ -32,14 +32,12 @@ Requirement:
 * JDK 8+
    
 ## Clone Repository
-(git clone https://github.com/saraga1/ExpenseReimbursement.git)
-(include all environment setup steps)
 
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
+git clone https://github.com/saraga1/ExpenseReimbursement.git
 
-- All the `code` required to get started
-- Images of what it should look like
+##Run
+
+java -jar build/libs/<name_of_jar_file>
 
 ## Usage
 
