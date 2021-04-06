@@ -35,7 +35,7 @@ Requirement:
 
 git clone https://github.com/saraga1/ExpenseReimbursement.git
 
-##Run
+## Run
 
 java -jar build/libs/<name_of_jar_file>
 
